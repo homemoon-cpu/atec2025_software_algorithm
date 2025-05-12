@@ -1,0 +1,6 @@
+path: /home/admin/atec_project/YOLO_door_detect/datasets
+train: images/train1
+val: images/val1
+
+nc: 5 
+names: ['out_door','person', 'ambulance', 'stretcher', 'door']

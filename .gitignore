@@ -1,0 +1,8 @@
+checkpoints/
+checkpoints/
+gym_rescue/
+ollama/
+YOLO_door_detect/runs/
+YOLO_door_detect/datasets/
+*.pyc
+*.log
